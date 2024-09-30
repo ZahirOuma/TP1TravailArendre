@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InscriptionFormation</string>
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Casa</item>
+        <item>El Jadida</item>
+    </array>
+</resources>
